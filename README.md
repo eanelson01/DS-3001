@@ -1,9 +1,9 @@
 # DS-3001: Foundations of Machine Learning
 
-**Instructor:** Ethan Nelson
-**Email:** ean8fr@virginia.edu
-**School Term:** Spring 2026
-**Class Location:** School of Data Science, Room 305
+**Instructor:** Ethan Nelson <br>
+**Email:** ean8fr@virginia.edu <br>
+**School Term:** Spring 2026 <br>
+**Class Location:** School of Data Science, Room 305 <br>
 **Class Title:** Foundations of Machine Learning
 
 ### Course Overview
